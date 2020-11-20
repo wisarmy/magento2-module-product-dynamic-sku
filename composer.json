@@ -1,0 +1,7 @@
+{
+ "name": "wisarmy/product",
+ "autoload": {
+    "psr-4": { "Wisarmy\\Product\\": "" },
+    "files": [ "registration.php" ]
+ }
+}
